@@ -1,13 +1,13 @@
 # CS333-Project1
 ## Description
 * This is a Linux kernel module which creates a character device and also generates random numbers in Kernel space that allows apps in User space to open and read.
-* `CS333/vchar_driver.c` is the module and `CS333/user_app/user_random.c` is the user app to get random numbers.
+* `333/vchar_driver.c` is the module and `333/user_app/user_random.c` is the user app to get random numbers.
 
 ## Usage
   To use this program, please follow these steps:
   
 ```
-cd CS333
+cd 333
 make
 ```
 
@@ -48,3 +48,7 @@ Enter your option:
 
 * **To clean in** `/333` **and** `/333/user_app`\
 `make clean`
+
+##Authors
+- Giang Nguyen, email: ntgiang@apcs.vn
+- Hoang Pham, email: pnhhoang@apcs.vn
