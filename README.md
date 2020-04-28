@@ -11,7 +11,7 @@ cd CS333
 make
 ```
 
-* Attach the module to kernel
+* Attach the module to kernel\n
 `sudo insmod vchar_driver.ko`
 
 * To check major number and minor number
