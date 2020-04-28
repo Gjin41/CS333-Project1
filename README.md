@@ -51,6 +51,6 @@ Enter your option:
 
 ## Authors
 - Giang Nguyen\
-email: ntgiang@apcs.vn\
+email: ntgiang@apcs.vn
 - Hoang Pham\
 email: pnhhoang@apcs.vn
