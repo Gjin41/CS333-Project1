@@ -49,6 +49,8 @@ Enter your option:
 * **To clean in** `/333` **and** `/333/user_app`\
 `make clean`
 
-##Authors
-- Giang Nguyen, email: ntgiang@apcs.vn
-- Hoang Pham, email: pnhhoang@apcs.vn
+## Authors
+Giang Nguyen\
+email: ntgiang@apcs.vn
+Hoang Pham\
+email: pnhhoang@apcs.vn
