@@ -46,5 +46,5 @@ Enter your option:
 * **To detach the module from kernel**\
 `sudo rmmod vchar_driver`
 
-* **To clean in `/333` and `/333/user_app`**\
+* **To clean in** `/333` **and** `/333/user_app`\
 `make clean`
