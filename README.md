@@ -12,20 +12,20 @@ make
 ```
 
 * Attach the module to kernel\n
-`sudo insmod vchar_driver.ko`
+```sudo insmod vchar_driver.ko```
 
 * To check major number and minor number
-`dmesg`
+```dmesg```
 You will see the line `Allocated device number (x, y)` which x is the major number and y is the minor number.
 
 * To show list of current devices
-`sudo cat /proc/devices`
+```sudo cat /proc/devices```
 
 * To check if device file is created or not
-`ls -la /dev/vchar_dev`
+```ls -la /dev/vchar_dev```
 
 * Get the right to read
-`sudo chmod 666 /dev/vchar_dev`
+```sudo chmod 666 /dev/vchar_dev```
 
 * To use this module in User space
 ```
@@ -44,7 +44,7 @@ Enter your option:
 ```
 
 * To detach the module from kernel
-`sudo rmmod vchar_driver`
+```sudo rmmod vchar_driver```
 
 * To clean in /333 and /333/user_app
-`make clean`
+```make clean```
