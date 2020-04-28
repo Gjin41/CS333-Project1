@@ -50,7 +50,7 @@ Enter your option:
 `make clean`
 
 ## Authors
-Giang Nguyen\
+- Giang Nguyen\
 email: ntgiang@apcs.vn\
-Hoang Pham\
+- Hoang Pham\
 email: pnhhoang@apcs.vn
